@@ -13,3 +13,6 @@
 
 - host: `0.0.0.0`
 - port: `3306`
+
+## Stack Overflow
+https://stackoverflow.com/questions/33827342/how-to-connect-mysql-workbench-to-running-mysql-inside-docker
